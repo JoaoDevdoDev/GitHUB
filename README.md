@@ -1,8 +1,6 @@
 # **Curso de Git e GitHUB do GG**
---- 
 ## Curso do guanabara em git e github
 
-***
 __*Repositorio criado durante a aula (teste).*__
 
 ---
