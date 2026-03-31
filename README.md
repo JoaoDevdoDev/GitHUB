@@ -35,5 +35,5 @@ __Lista numerada__
 - [] Estudar Logica de programação
 - [] Estudar banco de dados
 - [] Criar meu repositorio Git
-
+---
 ~~Edit for site on Github~~
