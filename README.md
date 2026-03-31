@@ -8,7 +8,7 @@ __*Repositorio criado durante a aula (teste).*__
 ---
 __Lista numerada__
 1. Teste 1
-    1.teste 1.1
+    1. teste 1.1
 1. Teste 2
     1. teste 2.1
     1. teste 2.2
