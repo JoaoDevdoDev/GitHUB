@@ -36,8 +36,6 @@ __Lista numerada__
 - [] Estudar banco de dados
 - [] Criar meu repositorio Git
 ---
-![Imagem do Git](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Foto_de_gato.jpg/960px-Foto_de_gato.jpg?_=20211108145323)
-
 [Acesse meu repositório Git](https://github.com/JoaoDevdoDev).
 ***
 ~~Edit for site on Github~~
