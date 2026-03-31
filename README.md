@@ -36,7 +36,8 @@ __Lista numerada__
 - [] Estudar banco de dados
 - [] Criar meu repositorio Git
 ---
-[Imagem do Git](c:\Users\jab\Desktop\DEV JOÃO\Github-desktop-logo-symbol.svg.png)
+![Imagem do Git](c:\Users\jab\Desktop\DEV JOÃO\Github-desktop-logo-symbol.svg.png)
+
 [Acesse meu repositório Git](https://github.com/JoaoDevdoDev).
 ***
 ~~Edit for site on Github~~
