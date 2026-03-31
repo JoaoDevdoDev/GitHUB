@@ -19,8 +19,8 @@ __Lista numerada__
 
 ***
 **Lista demarcada**
-* Teste 1
-    * teste 1.1
+- Teste 1
+    - teste 1.1
 - Teste 2
     * teste 2.1
     - teste 2.2
