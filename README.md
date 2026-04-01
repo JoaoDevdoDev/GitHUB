@@ -37,6 +37,6 @@ __Lista numerada__
 - [] Criar meu repositorio Git
 ---
 [Acesse meu repositório Git](https://github.com/JoaoDevdoDev).
-![Imagem do Git](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Foto_de_gato.jpg/960px-Foto_de_gato.jpg?_=20211108145323.png)
+![imagem ilustrativa](image-1.png)
 ***
 ~~Edit for site on Github~~
