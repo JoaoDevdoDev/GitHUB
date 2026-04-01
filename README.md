@@ -47,6 +47,8 @@ Num | Name | Score
 4 | lucas | 6.8
 
 Fim!
+---
+Não consigo entender para que serve o comando `While e for` da aula de lógica.
 
 ***
 [Acesse meu repositório Git clicando aqui](https://github.com/JoaoDevdoDev).
