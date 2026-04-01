@@ -50,7 +50,7 @@ Fim!
 ---
 Não consigo entender para que serve o comando `While e for` da aula de lógica.
 ---
-Código python para saber se numero é par ou ímpar.
+> Código python para saber se numero é par ou ímpar.
 
 ```
 num = int(input('digite o valor : '));
