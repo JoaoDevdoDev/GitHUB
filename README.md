@@ -50,6 +50,14 @@ Fim!
 ---
 Não consigo entender para que serve o comando `While e for` da aula de lógica.
 
+```
+num = int(input('digite o valor : '))
+if: num % 2 == 0:
+    print (f 'O valor {num} é PAR')
+else:
+    print (f'O valor {num} é ÍMPAR')
+```
+
 ***
 [Acesse meu repositório Git clicando aqui](https://github.com/JoaoDevdoDev).
 
