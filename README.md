@@ -36,7 +36,8 @@ __Lista numerada__
 - [] Estudar banco de dados
 - [] Criar meu repositorio Git
 ---
-[Acesse meu repositório Git](https://github.com/JoaoDevdoDev).
-![imagem ilustrativa](image-2.png)(https://github.com/JoaoDevdoDev)
+[Acesse meu repositório Git clicando aqui](https://github.com/JoaoDevdoDev).
+***
+![imagem ilustrativa](image-2.png).
 ---
 ~~Edit for site on Github~~
