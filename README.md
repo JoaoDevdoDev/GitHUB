@@ -36,10 +36,9 @@ __Lista numerada__
 - [] Estudar banco de dados
 - [] Criar meu repositorio Git
 ---
-[Acesse meu repositório Git clicando aqui](https://github.com/JoaoDevdoDev).
 
-![imagem ilustrativa](image-2.png).
----
+Ciração de tabelas
+
 Num | Name | Score
 ---|---|---
 1 | joao | 9.2
@@ -50,4 +49,9 @@ Num | Name | Score
 Fim!
 
 ***
+[Acesse meu repositório Git clicando aqui](https://github.com/JoaoDevdoDev).
+
+![imagem ilustrativa](image-2.png).
+---
+
 ~~Edit for site on Github~~
