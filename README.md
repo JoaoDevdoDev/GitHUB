@@ -37,6 +37,6 @@ __Lista numerada__
 - [] Criar meu repositorio Git
 ---
 [Acesse meu repositório Git](https://github.com/JoaoDevdoDev).
-![imagem ilustrativa](https://github.com/JoaoDevdoDev)(image-2.png)
+![imagem ilustrativa](image-2.png)(https://github.com/JoaoDevdoDev)
 ---
 ~~Edit for site on Github~~
