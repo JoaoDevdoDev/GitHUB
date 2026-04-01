@@ -49,13 +49,15 @@ Num | Name | Score
 Fim!
 ---
 Não consigo entender para que serve o comando `While e for` da aula de lógica.
+---
+Código python para saber se numero é par ou ímpar.
 
 ```
-num = int(input('digite o valor : '))
-if: num % 2 == 0:
-    print (f 'O valor {num} é PAR')
+num = int(input('digite o valor : '));
+if: num % 2 == 0
+    print (f 'O valor {num} é PAR');
 else:
-    print (f'O valor {num} é ÍMPAR')
+    print (f'O valor {num} é ÍMPAR');
 ```
 
 ***
