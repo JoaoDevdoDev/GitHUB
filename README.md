@@ -40,4 +40,14 @@ __Lista numerada__
 
 ![imagem ilustrativa](image-2.png).
 ---
+Num | Name | Score
+---|---|---
+1 | joao | 9.2
+2 | Caio | 10.0
+3 | Luan | 7.2
+4 | lucas | 6.8
+
+Fim!
+
+***
 ~~Edit for site on Github~~
