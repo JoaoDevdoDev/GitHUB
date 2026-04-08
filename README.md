@@ -29,7 +29,7 @@ __Lista numerada__
 - Teste 4
 ---
 **Lista de Tarefas**
-- [] Finalizar curso de Git
+- [x] Finalizar curso de Git
 - [] Estudar HTML, CSS e JS
 - [] Estudar Python
 - [] Estudar Logica de programação
